@@ -1,3 +1,4 @@
+The `odin.js` file is a copy from `<odin path>/core/sys/wasm/js/odin.js`
 
 compile using `./build.sh`
 
